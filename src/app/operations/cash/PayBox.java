@@ -1,6 +1,6 @@
-package operations.cash;
+package app.operations.cash;
 
-import operations.account.Account;
+import app.operations.account.Account;
 
 public class PayBox {
 

@@ -1,6 +1,6 @@
-package operations;
+package app.operations;
 
-import operations.cash.PayBox;
+import app.operations.cash.PayBox;
 
 public class Client {
 
