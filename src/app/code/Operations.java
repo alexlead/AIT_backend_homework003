@@ -1,8 +1,8 @@
-package code;
+package app.code;
 
-import operations.Client;
-import operations.account.Account;
-import operations.cash.PayBox;
+import app.operations.Client;
+import app.operations.account.Account;
+import app.operations.cash.PayBox;
 
 public class Operations {
 

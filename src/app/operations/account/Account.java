@@ -1,4 +1,4 @@
-package operations.account;
+package app.operations.account;
 
 public class Account {
     private double currentAccount;
